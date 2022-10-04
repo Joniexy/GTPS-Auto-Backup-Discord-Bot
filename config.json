@@ -1,10 +1,10 @@
 {
-  "prefix": "",
-  "token": "",
-  "secret_channels": "",
-  "role_id": "",
+  "prefix": "!",
+  "token": "MTAyNjc2MTQ4MTI5NzA3NjIzNA.GG2Cff.PT9ORT0Sk7bE5XlbZ2ipJxe9w7zMuYaXu28jTU",
+  "secret_channels": "1026762787449470986",
+  "role_id": "1026762550303539230",
   "user_id": "",
-  "delay": "",
+  "delay": "1d",
   "world_folder": "Path/to/world_folder",
   "player_folder": "Path/to/player_folder",
   "gtps_folder": "Path/to/gtps_folder"
